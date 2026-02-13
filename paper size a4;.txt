@@ -1,0 +1,14 @@
+paper size a4;
+margin default,normal 1inch each side;
+font times new roman;
+main heading font 16;
+sub heading 14;
+content 12;
+alignment mode justify;
+list of tables and figures chapter numer.fig no ;
+table name up;
+figure name down;
+explain fig and table with the number;
+review of litareture bold titile,journaral,author name;
+minimum 45 pages;
+

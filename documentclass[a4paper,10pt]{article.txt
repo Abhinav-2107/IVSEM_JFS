@@ -1,0 +1,79 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[a4paper,margin=0.8in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{parskip}
+
+\setlength{\parskip}{3pt}
+\renewcommand{\baselinestretch}{1.08}
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+%----------------------------------------
+% HEADER
+\begin{center}
+    {\LARGE \textbf{Sirige Abhinav}} \\[4pt]
+    \href{mailto:abhisiriga@gmail.com}{abhisiriga@gmail.com} \textbar\ 
+    +91-9493081973 \textbar\ 
+    \href{https://github.com/Abhinav-2107}{GitHub: Abhinav-2107} \textbar\ 
+    \href{https://www.linkedin.com/in/s-abhinav-56517931b/}{LinkedIn:s-abhinav}
+\end{center}
+
+%----------------------------------------
+\section*{Education}
+
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{Institute of Aeronautical Engineering, Hyderabad, India} & \textit{May 2026} \\
+B.Tech in Computer Science and Engineering (AI \& ML) & \textit{CGPA: 9.35 / 10.0} \\
+\end{tabular*}
+\vspace{6pt}
+
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{Abhyaas JR College, Hyderabad} & \textit{June 2024} \\
+Intermediate & \textit{Percentage: 96.3} \\
+\end{tabular*}
+\vspace{6pt}
+
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{St Peters High School, Sangareddy} & \textit{March 2022} \\
+Secondary School Certificate (SSC) & \textit{GPA: 10.0 / 10.0} \\
+\end{tabular*}
+
+%----------------------------------------
+\section*{Technical Skills}
+\textbf{Programming Languages:} Java,JavaScript,Python,HTML,CSS. \\
+\textbf{Technologies Know :} Web Development using MERN \\
+\textbf{Tools:} Git, GitHub , VS Code \\
+\textbf{Areas of Interest:} Web Development, Artificial Intelligence, Machine Learning,Problem Solving.
+
+%----------------------------------------
+\section*{Projects}
+
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\href{https://simon-says-clone-two.vercel.app/}{Simon Say Game : Fully developed application using Mern Stack} & \textit{June 2025} \\
+Spotify Front End : Developed a Web Page Using HTML and CSS & \textit{April 2025} \\
+Waste Management System Using Open Ai API : Create an Ai Application using Mern & \textit{August 2025} \\
+\end{tabular*}
+
+%----------------------------------------
+\section*{Certificates}
+
+\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+Python Certification – HackerRank & \textit{April 2025} \\
+Artificial Intelligence Fundamentals – LetsUpgrade & \textit{February 2025} \\
+CSS Certificate – HackerRank (LinkedIn Post) & \textit{December 2024} \\
+\end{tabular*}
+
+%----------------------------------------
+\section*{Coding Profiles}
+HackerRank: 1 Gold Badge in Java, 1 Silver Badge in Python, 1 Bronze Badge in Problem Solving. \\
+GeeksforGeeks: Solved 161 problems with a total score of 591.
+
+%----------------------------------------
+\section*{Honors and Achievements}
+1.Got 1st place in Mathematics in State Level Examination in Class 7th class. \\
+2.Got 2nd place in Biology in State Level Examination in Class 7th class.
+
+\end{document}
